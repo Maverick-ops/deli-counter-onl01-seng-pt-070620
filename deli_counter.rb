@@ -18,5 +18,5 @@ end
 
 def now_serving(deli)
   if deli = 0 
-    puts
+    puts 
 end
