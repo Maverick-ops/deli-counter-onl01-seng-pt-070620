@@ -1,4 +1,4 @@
 def line(deli) 
   if deli.lengh == 0 
-    puts 
+    puts "The line is currently empty."
 end
