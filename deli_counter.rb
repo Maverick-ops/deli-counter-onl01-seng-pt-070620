@@ -1,1 +1,2 @@
-def line(deli) # Write your code here.
+def line(deli) 
+end
